@@ -11,9 +11,9 @@
 
 ### 🛠️ 技能栈
 
-- **语言**: Python (主要), C, Shell
+- **语言**: Python (主要), Shell
 - **安全**: 流量分析, 安全运营自动化
-- **工具**: Git, Docker, Obsidian, Dify
+- **工具**: Docker, Obsidian, Dify, ELK
 - **方向**: 安全场景建设、日志分析、自动化运营
 
 ---
