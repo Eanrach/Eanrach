@@ -33,13 +33,6 @@
 
 ---
 
-### 📊 GitHub 统计
-
-![Eanrach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eanrach&show_icons=true&theme=transparent) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eanrach&layout=compact&theme=transparent)
-
----
-
 ### 📫 如何联系我
 - **GitHub**: [@Eanrach](https://github.com/Eanrach)
 - **领域**: 如果你对安全运营自动化或日志分析感兴趣，欢迎交流！
