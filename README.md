@@ -20,7 +20,7 @@
 
 ### 🚀 精选项目
 
-- **[security_analysts_notes](https://github.com/Eanrach/security_analysts_notes)** - 📝 我的安全分析笔记，记录关于流量、日志分析及安全场景的实战经验。
+- **[security_analysts_notes](https://github.com/Eanrach/security_analysts_notes)** - 📝 我的安全分析笔记，记录关于流量、日志分析及安全场景的实战经验，AI Agent的设计思路和实践成果。
   
 - **[DifyToolsCollection](https://github.com/Eanrach/DifyToolsCollection)**
   - 🤖 为 Dify 平台开发的工具集，例如 [Structured File Creation](https://github.com/Eanrach/DifyToolsCollection/tree/main/create_files_from_structure) 插件。
